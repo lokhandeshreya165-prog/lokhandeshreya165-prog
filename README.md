@@ -96,14 +96,14 @@
 | [SmartCart-AI-Recommendation-System](https://github.com/lokhandeshreya165-prog/SmartCart-AI-Recommendation-System) | AI-based product recommendation system | ![JS](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black) |
 
 ---
-
+<!---
 ## 💬 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
 </div>
 
----
+--->
 
 <div align="center">
 
