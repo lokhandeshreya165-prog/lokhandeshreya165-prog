@@ -27,7 +27,7 @@
 - 🤖 Interested in **AI/ML**, recommendation systems and fraud detection
 - 📫 Reach me: [GitHub](https://github.com/lokhandeshreya165-prog)
 
----
+<!---
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +37,68 @@
 
 </div>
 
----
+--->
+# 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" />
+    </td>
+  </tr>
+
+<tr>
+  <td><b>Frontend</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </td>
+</tr>
+
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+  </tr>
+
+<tr>
+  <td><b>Data & AI</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  </td>
+</tr>
+
+  <tr>
+    <td><b>Core CS</b></td>
+    <td>
+      Data Structures & Algorithms, OOP, DBMS, Operating Systems,
+      Computer Networks, System Design
+    </td>
+  </tr>
+</table>
+
+
 <!--
 ## 📊 GitHub Stats (live)
 
