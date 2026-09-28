@@ -135,12 +135,19 @@
 ![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
-
+<!--
 ## 📅 Weekly Activity Heatmap
 
 <div align="center">
-
-<img src="https://ghchart.rshah.org/6c63ff/lokhandeshreya165-prog" alt="Contribution chart" width="90%" />
+<table>
+<tr>
+<td align="center" bgcolor="#ffffff" style="border-radius:10px;">
+<img src="https://ghchart.rshah.org/ff5c8a/lokhandeshreya165-prog" alt="Contribution chart" width="90%" />
+</td>
+</tr>
+</table>
+<img src="https://ghchart.rshah.org/ff5c8a/lokhandeshreya165-prog" alt="Contribution chart" width="90%" />
+-->
 
 </div>
 
@@ -166,10 +173,9 @@
 
 --->
 
-<div align="center">
 
 ⭐ *Thanks for stopping by, feel free to follow and collaborate!*
 
-</div>
+<!--</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
