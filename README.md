@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/lokhandeshreya165-prog">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shreya;Learning+Full-Stack+Development;Building+projects+%26+contributing+to+open+source;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shreya;Learning+Full-Stack+Development;Building+projects+%26+contributing+to+open+source;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
