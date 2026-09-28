@@ -112,8 +112,8 @@
 ## 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=lokhandeshreya165-prog&theme=radical&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=lokhandeshreya165-prog&theme=radical&hide_border=true&mode=weekly" alt="Weekly streak" />
+<!-- <img src="https://streak-stats.demolab.com/?user=lokhandeshreya165-prog&theme=radical&hide_border=true" alt="GitHub streak" />  -->
 
 </div>
 
