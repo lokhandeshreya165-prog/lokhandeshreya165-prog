@@ -38,7 +38,7 @@
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats (live)
 
 <div align="center">
@@ -47,20 +47,12 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokhandeshreya165-prog&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
-
+-->
 ## 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=lokhandeshreya165-prog&theme=radical&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokhandeshreya165-prog&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph%20-%20Last%2031%20Days" alt="Activity graph" width="100%" />
 
 </div>
 
@@ -72,13 +64,14 @@
 
 </div>
 
-> The snake appears after you add the workflow from `snake.yml` (see setup notes) and it runs once.
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lokhandeshreya165-prog&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-Earned-6c63ff?style=for-the-badge)](https://github.com/lokhandeshreya165-prog?tab=achievements)
+![Hacktoberfest](https://img.shields.io/badge/🎃_Hacktoberfest-Contributor-ff7518?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
 
@@ -94,25 +87,13 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/lokhandeshreya165-prog/full-stack-learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokhandeshreya165-prog&repo=full-stack-learning&theme=radical&hide_border=true" alt="full-stack-learning" />
-</a>
-<a href="https://github.com/lokhandeshreya165-prog/StudyNest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokhandeshreya165-prog&repo=StudyNest&theme=radical&hide_border=true" alt="StudyNest" />
-</a>
-<a href="https://github.com/lokhandeshreya165-prog/ProjectHive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokhandeshreya165-prog&repo=ProjectHive&theme=radical&hide_border=true" alt="ProjectHive" />
-</a>
-<a href="https://github.com/lokhandeshreya165-prog/Banking-Fraud-Detection-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokhandeshreya165-prog&repo=Banking-Fraud-Detection-System&theme=radical&hide_border=true" alt="Banking Fraud Detection" />
-</a>
-<a href="https://github.com/lokhandeshreya165-prog/SmartCart-AI-Recommendation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokhandeshreya165-prog&repo=SmartCart-AI-Recommendation-System&theme=radical&hide_border=true" alt="SmartCart AI" />
-</a>
-
-</div>
+| Project | Description | Language |
+|---|---|---|
+| [full-stack-learning](https://github.com/lokhandeshreya165-prog/full-stack-learning) | Practical full-stack projects, exercises and experiments | ![JS](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black) |
+| [StudyNest](https://github.com/lokhandeshreya165-prog/StudyNest) | Semester-wise notes, PYQs and resources for SPPU students | ![JS](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black) |
+| [ProjectHive](https://github.com/lokhandeshreya165-prog/ProjectHive) | Hacktoberfest mini-projects, templates and roadmaps | ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white) |
+| [Banking-Fraud-Detection-System](https://github.com/lokhandeshreya165-prog/Banking-Fraud-Detection-System) | Banking fraud detection system | ![JS](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black) |
+| [SmartCart-AI-Recommendation-System](https://github.com/lokhandeshreya165-prog/SmartCart-AI-Recommendation-System) | AI-based product recommendation system | ![JS](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black) |
 
 ---
 
