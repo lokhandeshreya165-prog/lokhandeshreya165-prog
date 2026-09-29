@@ -1,6 +1,5 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shreya%20Lokhande&fontSize=52&fontAlignY=38&desc=Full-Stack%20Learner%20%7C%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
-
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/lokhandeshreya165-prog">
