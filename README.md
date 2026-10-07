@@ -107,6 +107,7 @@
   <a href="mailto:lokhandeshreya165@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <!-- <a href="https://drive.google.com/file/d/1Dwjc08XlQVDy1YllZNz7t0n0HdPMfXpC/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a> -->
